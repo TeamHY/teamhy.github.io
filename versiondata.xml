@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<versiondata>
+	<chaosgreedier>
+		<version>5.8.2</version>
+		<url></url>
+		<changelog>
+			▶Chaos Greed Greedier 5.8(2)
+			 -신규 아이템 : (325)Silver Bullets(P), (802)Scroll For Chaos(A), (805)League of Legends(P), (807)The Small Hippo(A), (808)The Small Raven(A), (809)The Small Toy(A), (996)Rank-Up-Magic Soul Shave Force(A)
+			└Silver Bullets : 눈물 공격 시, 공격 당한 몬스터가 변종 또는 보스일경우 DMG(고정) x1.5 증가
+			└Scroll For Chaos : 사용 시 DMG(고정) ±30 증가 및 감소
+			└League of Legends : 눈물 공격 시, 공격 당한 몬스터가 "Portal"(히오스)일경우 즉시 사망
+			└Rank-Up-Magic Soul Shave Force : 사용 시 150 경과 후 Steam Sale, Humbleing Bundle, Counterfeit Penny 1개의 아이템 소환
+			└The Small Toy : 사용 시 Tech X, Technology, Brimstone, Epic Fetus, Mom's Knife 1개의 아이템 소환
+			└The Small Hippo : 사용 시 2초 동안 DMG(고정) 1000, 칼 획득 (2초후 제거됩니다.)
+			└The Small Raven : 사용 시 Greed(Miniboss), Dead Bird(2~3) 소환 (해당 아이템으로 소환되는 퍼밀리어는 방 이동시에도 사라지지 않습니다.)
+			 -Lost Contact : 관통 기능 추가, DMG(고정) x1.2 증가
+			 -Spoon Bender : 관통 기능 추가
+			 -Gemini Familiar : DMG 10 -> 20 증가
+		</changelog>
+	</chaosgreedier>
+</versiondata>
