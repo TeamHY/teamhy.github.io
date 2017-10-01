@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <versiondata>
+	<hyutility>
+		<version>0.1.0</version>
+		<url>https://teamhy.github.io/HY-Utility.exe</url>
+		<changelog></changelog>
+	</hyutility>
 	<chaosgreedier>
 		<version>5.9</version>
 		<url>https://teamhy.github.io/ChaosGreedier_5.9.zip</url>
