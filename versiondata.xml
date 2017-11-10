@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <versiondata>
-	<utility>
+	<data name="Utility">
 		<version>0.1.1.1</version>
 		<url>https://github.com/TeamHY/KimUtility/releases/download/</url>
 		<changelog></changelog>
-	</utility>
-	<chaosgreedier>
+	</data>
+	<data name="ChaosGreedier">
 		<version>5.9</version>
 		<url>https://teamhy.github.io/ChaosGreedier_5.9.zip</url>
 		<changelog></changelog>
-	</chaosgreedier>
+	</data>
 </versiondata>
