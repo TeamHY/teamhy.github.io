@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <versiondata>
-	<utility>
+	<app name="KimUtility">
 		<version>0.1.1.1</version>
 		<url>https://github.com/TeamHY/KimUtility/releases/download/</url>
 		<changelog></changelog>
 	</utility>
-	<chaosgreedier>
+	<mod name="ChaosGreedier">
 		<version>5.9</version>
 		<url>https://teamhy.github.io/ChaosGreedier_5.9.zip</url>
 		<changelog></changelog>
-	</chaosgreedier>
+	</mod>
+	<mod name="Blood">
+		<version>1.0</version>
+		<url>https://teamhy.github.io/Blood_1.0.zip</url>
+		<changelog></changelog>
+	</mod>
 </versiondata>
