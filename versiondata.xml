@@ -6,13 +6,11 @@
 		<changelog></changelog>
 	</utility>
 	<mod name="ChaosGreedier">
-		<directory>chaosgreedier</directory>
 		<version>5.9</version>
 		<url>https://teamhy.github.io/ChaosGreedier_5.9.zip</url>
 		<changelog></changelog>
 	</mod>
 	<mod name="Blood">
-		<directory>blood</directory>
 		<version>1.0</version>
 		<url>https://teamhy.github.io/Blood_1.0.zip</url>
 		<changelog></changelog>
